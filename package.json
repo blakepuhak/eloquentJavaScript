@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "EloquentJavaScript.net Sample Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "blake puhak",
+  "author_email": "blakepuhak@gmail.com",
+  "author_url": "http://blake.puhak.net",
+  "license": "None",
+  "devDependencies": {
+    "grunt-contrib-jasmine": "^2.5.2",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+  }
+}
